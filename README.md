@@ -28,3 +28,17 @@ Hey there! This is a fun little project I whipped up—a domain name generator t
 - **Google API Key** (for Gemini access—set it in a `.env` file)
 - A PDF file named `naming-guide.pdf` in `backend/material/` (not included here, add your own!)
 
+## Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Alkush-Pipania/RAG-AI-DOMAIN-GENERATOR.git
+   cd RAG-AI-DOMAIN-GENERATOR/backend
+
+## Install Dependencies
+    ```bash
+    npm install
+
+## run it
+    ```bash
+    npm run devy { yup i did devy :)  }
+ 
